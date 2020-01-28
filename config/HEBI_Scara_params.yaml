@@ -9,4 +9,4 @@ home_position: [ 0.01, 2.09439, 0]
 
 # Note: the "moveit_joints" must matches the configuration from the MoveIt config; only
 # required when running MoveIt examples
-moveit_joints: ["Arm/J1_shoulder/X8_9", "Arm/J2_elbow/X8_16", "Arm/J3_wrist/X8_9"]
+moveit_joints: ["Arm/J1_shoulder/X8_9", "Arm/J2_elbow/X8_9", "Arm/J3_wrist/X8_9"]
